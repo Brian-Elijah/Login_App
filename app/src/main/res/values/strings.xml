@@ -1,0 +1,14 @@
+<resources>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="app_name">LoginApp</string>
+    <string name="social_login">Social Login</string>
+    <string name="facebook">Facebook</string>
+    <string name="linkedin">LinkedIn</string>
+    <string name="google">Google</string>
+    <string name="account_icon_desc">account_icon\n</string>
+    <string name="facebook_desc">facebook\n</string>
+    <string name="linkedin_desc">linkedin\n</string>
+    <string name="google_desc">google</string>
+    <string name="login">login</string>
+</resources>
